@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Python: demo",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "env": {
+        "MONGODB_URI": "mongodb://localhost:27017"
+    }
+    }
+  ]
+}
+
