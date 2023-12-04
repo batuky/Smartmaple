@@ -34,7 +34,7 @@ Python script that performs web scraping of the first 50 pages of `https://turki
 -Provide an environment variable for `mongo_uri`.
 
 -You can build and run it with Docker.
-`$ docker build -t demo:latest .`
+`docker build -t demo:latest .`
 
 ## Optional Function Usage
 On the console, a question will be displayed for the user to answer within 10 seconds. If an input is provided, the program will execute based on that input and print the output to the console. If no input is provided within 10 seconds, the program will continue running with the default value.
