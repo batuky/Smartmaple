@@ -1,6 +1,6 @@
 # Web Scraper
 
-Python script that performs web scraping of the first 50 pages of `https://turkishnetworktimes.com/kategori/gundem/` website's news every 20 mins.
+Python script that performs web scraping of the first 50 pages of `https://turkishnetworktimes.com/kategori/gundem/` website's news every 20 mins until you stop it (using Ctrl+C in the Windows terminal).
 
 ## Features
 
