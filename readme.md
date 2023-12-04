@@ -39,6 +39,9 @@ Python script that performs web scraping of the first 50 pages of `https://turki
 ## Optional Function Usage
 On the console, a question will be displayed for the user to answer within 10 seconds. If an input is provided, the program will execute based on that input and print the output to the console. If no input is provided within 10 seconds, the program will continue running with the default value.
 
+![](https://i.imgur.com/hiWVwBz.png)
+
+
 ## License
 
 MIT
